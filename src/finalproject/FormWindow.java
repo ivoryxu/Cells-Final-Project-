@@ -8,7 +8,7 @@ package finalproject;
 
 /**
  *
- * @author yixu8827
+ * @author Ivory Xu
  */
 public class FormWindow extends javax.swing.JFrame {
 
